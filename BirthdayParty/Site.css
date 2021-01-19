@@ -7,13 +7,13 @@ body {
   width: 990px;
   border: 0px solid black;
   padding: 5px;
-/*  background-color: #BDB4BF;*/
+  /*  background-color: #BDB4BF;*/
 }
 
 header {
   /*background-color: #EFF2EF;*/
   color: black;
-  font-family: 'Prata'., serif;
+  /*font-family: 'Helvetica'., serif;
   font-size: 18px;
   padding-left: 24px;
   /*text-align: center;*/
@@ -21,13 +21,13 @@ header {
 }
 
 h1 {
-  font-family: Georgia, Arial, sans-serif;
+  font-family: 'Playfair Display', serif;
   font-size: 30px;
 }
 
 main {
   margin: 0;
-  padding: 60px;
+  padding: 50px;
   display: grid;
   grid-template-columns: 2fr 1fr;
 }
@@ -38,14 +38,14 @@ section {
 }
 
 section h2 {
-  font-family: 'Prata', serif;
+  font-family: 'Playfair Display', serif;
   font-size: 28px;
   font-weight: bold;
   border-bottom: 4px solid black;
 }
 
 section p {
-  font-family: 'Prata', serif;
+  font-family: 'Playfair Display', serif;
 }
 
 .roundedbox {
@@ -53,18 +53,18 @@ section p {
   border: 3px solid #C97D7D;
   background-color: #B47978;
   /*box-shadow: 10px 10px 15px #666;  x, y, blur, color */
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .mainimg {
-  margin-left: 40px;
+  margin-left: 30px;
 }
 
 footer {
   grid-column: span 12;
   /*background-color: white;*/
   color: black;
-  font-family: Georgia, Arial, sans-serif;
+  font-family: 'Playfair Display', serif;
   font-size: 20px;
   text-align: center;
   font-style: italic;
