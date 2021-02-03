@@ -152,6 +152,7 @@ p{
 #slide5 {
   width: 300px;
   overflow: hidden;
+  display: inline-block;
 }
 
 #slide5 img {
