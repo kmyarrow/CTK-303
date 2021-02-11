@@ -1,0 +1,21 @@
+body{
+  background-image: url("bg.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+  width: 500px;
+}
+
+#SVGLOGO{
+  width: 500px;
+  display: block;
+  transition: transform .25s linear;
+  transform-origin: left top;
+}
+
+#SVGLOGO:hover {
+  transform: scale(2.5);
+}
+
+#_12{
+  display: none;
+}
