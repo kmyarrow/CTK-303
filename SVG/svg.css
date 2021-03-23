@@ -2,8 +2,10 @@ body{
   background-image: url("bg.JPG");
     background-repeat: no-repeat;
     background-size: cover;
-  width: 500px;
+    background-color: #c8be23;
+    background-position: center;
 }
+
 
 #SVGLOGO{
   width: 500px;
